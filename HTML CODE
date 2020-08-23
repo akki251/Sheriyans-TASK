@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div id="background">
+        <div id="overlay">
+            <div id="navigation">
+                <img src="https://img.icons8.com/metro/15/000000/airplane-landing.png" />
+                <h5>Home</h5>
+                <h5>Trips</h5>
+                <h5>Services</h5>
+                <h5>Contact Us</h5>
+                <img src="https://img.icons8.com/metro/12/000000/search.png" />
+
+            </div>
+            <h1>A Destination For The New Millennium</h1>
+            <button>
+                <h4>EXPLORE</h4>
+            </button>
+
+        </div>
+        <div id="second">
+            <div id="secondleft">
+                <div id="overlaysecond">
+                    <h2>Some of the Best Places </h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda quisquam odit molestiae.
+                        Suscipit
+                        sint minus, quod velit deleniti inventore ratione quas culpa commodi, ex id beatae accusamus
+                        repudiandae, magnam corporis?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat
+                        molestiae, accusantium libero consequatur cum facere facilis, maiores necessitatibus in ab
+                        aperiam
+                        amet dignissimos eius, ipsum sint est corporis voluptates vero?</p>
+                    <button>
+                        <h5>Know More</h5>
+                    </button>
+                </div>
+
+            </div>
+
+
+            <div id="secondright">
+                <div id="firstimage"></div>
+                <div id="secondimage"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
